@@ -4,7 +4,7 @@ A single-page CV website built using HTML.
 
 ## Project URL
 
-[https://tasneem-67.github.io/single-page-cv/](https://tasneem-67.github.io/single-page-cv/)
+[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 ## How to Run
 
