@@ -1,6 +1,6 @@
 # Single Page CV
 
-A single-page CV built using HTML only, as part of the [roadmap.sh HTML Projects]([https://roadmap.sh/html/projects](https://roadmap.sh/projects/single-page-cv)).
+A single-page CV built using HTML only, as part of the [roadmap.sh HTML Projects](https://roadmap.sh/projects/single-page-cv).
 
 ## Technologies
 - HTML5
